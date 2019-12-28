@@ -1,0 +1,27 @@
+body {
+	background-image: url(slider2.jpg);
+	background-origin: padding-box;
+	background-repeat: no-repeat;
+}
+
+img {
+	position: relative;
+	width: 1200px;
+	height: 900px;
+	float: left;
+	z-index: 1;
+}
+
+
+div {
+	position: relative;
+	text-align: right;
+	background-color: white;
+	float: right;
+	width: 700px;
+	height: 800px;
+	z-index: 2;
+}
+
+
+/*MASIH BELUM BISA NAIK*/
